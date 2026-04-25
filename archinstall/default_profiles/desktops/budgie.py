@@ -18,9 +18,15 @@ class BudgieProfile(Profile):
 		return [
 			'materia-gtk-theme',
 			'budgie',
-			'mate-terminal',
-			'nemo',
 			'papirus-icon-theme',
+			'caja',
+			'mate-terminal',
+			'eom',
+			'atril',
+			'engrampa',
+			'mate-system-monitor',
+			'pluma',
+			'mate-calc',
 		]
 
 	@property
