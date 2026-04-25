@@ -9,7 +9,7 @@ class BudgieProfile(Profile):
 			'Budgie',
 			ProfileType.DesktopEnv,
 			support_gfx_driver=True,
-			display_server=DisplayServerType.Xorg,
+			display_server=DisplayServerType.Wayland,
 		)
 
 	@property
