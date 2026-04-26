@@ -22,8 +22,6 @@ class BudgieProfile(Profile):
 			'gnome-terminal',
 			'nemo',
 			'nemo-fileroller',
-			'rhythmbox',
-			'gthumb',
 		]
 
 	@property
