@@ -19,14 +19,11 @@ class BudgieProfile(Profile):
 			'materia-gtk-theme',
 			'budgie',
 			'papirus-icon-theme',
-			'caja',
-			'mate-terminal',
-			'eom',
-			'atril',
-			'engrampa',
-			'mate-system-monitor',
-			'pluma',
-			'mate-calc',
+			'gnome-terminal',
+			'nemo',
+			'nemo-fileroller',
+			'rhythmbox',
+			'gthumb',
 		]
 
 	@property
