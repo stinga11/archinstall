@@ -19,7 +19,7 @@ class BudgieProfile(Profile):
 			'materia-gtk-theme',
 			'budgie',
 			'papirus-icon-theme',
-			'gnome-terminal',
+			'mate-terminal',
 			'nemo',
 			'nemo-fileroller',
 		]
